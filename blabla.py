@@ -1,2 +1,6 @@
-
 print("je")
+print("suis")
+print("un")
+print("programme")
+print("en")
+print("python")
